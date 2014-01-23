@@ -1,0 +1,13 @@
+author: Ar7ific1al
+description: Checkers for Bukkit
+main: com.github.ar7ific1al.cbsimon.CBSimon
+name: CommandBlock Simon
+url: 
+version: 1.0
+commands:
+    cbs:
+      description: Base command for CommandBlock Simon.
+permissions:
+    cbsimon.use:
+        default: op
+        description: Allow sending messages via cbsimon
